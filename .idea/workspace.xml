@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_1/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_5/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_6/stijl.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,9 +46,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_6/opdracht_3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_6\opdracht_3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +69,9 @@
       <workItem from="1665136437295" duration="491000" />
       <workItem from="1665559079123" duration="3684000" />
       <workItem from="1666162676624" duration="3682000" />
-      <workItem from="1666171052723" duration="125000" />
+      <workItem from="1666171052723" duration="669000" />
+      <workItem from="1666767818657" duration="2400000" />
+      <workItem from="1667161570238" duration="1837000" />
     </task>
     <servers />
   </component>

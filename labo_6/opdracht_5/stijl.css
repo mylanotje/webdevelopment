@@ -1,0 +1,7 @@
+a{
+    background-image:url("icon.png");
+    padding-left: 16px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
