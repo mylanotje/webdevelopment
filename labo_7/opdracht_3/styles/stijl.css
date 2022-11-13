@@ -1,0 +1,61 @@
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th
+{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid black;
+}
+tr:first-child td
+{
+    background-color: pink;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+td:first-child
+{
+    background-color:lightblue;
+}
+
+td:last-child
+{
+    background-color: lightblue;
+}
+
+td
+{
+    border: thin dotted;
+
+}
+tr:nth-child(2) td:first-child
+{
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(5)
+{
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(6)
+{
+    background-color: #CCC;
+    color: darkgray;
+}
+tr:last-child td:nth-child(7)
+{
+    background-color: #CCC;
+    color: darkgray;
+}
+
+#vrije_dag
+{
+    background-color: lightsalmon;
+}

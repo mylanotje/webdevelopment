@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_1/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_3/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_5/stijl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_6/opdracht_6/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3/homepage/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_1/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_1/images/nature blog example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_1/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_2/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_3/styles/stijl.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_6/opdracht_1/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_6/opdracht_1/stijl.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7\opdracht_1\images" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7\opdracht_1" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_6\opdracht_3" />
     </key>
   </component>
@@ -71,7 +75,9 @@
       <workItem from="1666162676624" duration="3682000" />
       <workItem from="1666171052723" duration="669000" />
       <workItem from="1666767818657" duration="2400000" />
-      <workItem from="1667161570238" duration="1837000" />
+      <workItem from="1667161570238" duration="1952000" />
+      <workItem from="1667981300723" duration="5195000" />
+      <workItem from="1668333616419" duration="1285000" />
     </task>
     <servers />
   </component>

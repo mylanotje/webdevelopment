@@ -1,7 +1,9 @@
-li{
+li
+{
     display:inline-block;
     width:150px;
 }
-li > a{
+li > a
+{
     color: red;
 }
