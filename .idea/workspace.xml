@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_8" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7\opdracht_1\images" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7\opdracht_1" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_6\opdracht_3" />
@@ -64,7 +67,8 @@
       <workItem from="1666767818657" duration="2400000" />
       <workItem from="1667161570238" duration="1952000" />
       <workItem from="1667981300723" duration="5195000" />
-      <workItem from="1668333616419" duration="1647000" />
+      <workItem from="1668333616419" duration="1676000" />
+      <workItem from="1669152489284" duration="673000" />
     </task>
     <servers />
   </component>
