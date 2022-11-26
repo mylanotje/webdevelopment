@@ -1,0 +1,15 @@
+#links{
+    display: inline-block;
+    float: left;
+    box-sizing: border-box;
+    border: black 1px solid;
+    width: 50%;
+}
+#rechts{
+    display: inline-block;
+    float: right;
+    box-sizing: border-box;
+    border: black 1px solid;
+    width: 50%;
+
+}
