@@ -1,0 +1,26 @@
+article:nth-of-type(even) img:first-of-type
+{
+    float:right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+article:nth-of-type(odd) img:first-of-type
+{
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 5px
+}
+article
+{
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1.25em;
+    overflow: hidden;
+    margin:10px;
+}
+article > p{
+    margin-left:10px;
+}
+article > h2{
+    margin-left: 10px;
+}
