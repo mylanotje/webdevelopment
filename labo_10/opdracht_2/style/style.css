@@ -1,0 +1,17 @@
+.roze
+{
+    background-color: deeppink;
+}
+
+.lichtroze
+{
+    background-color: pink;
+}
+
+div
+{
+    height: 170px;
+    border: solid white 8px;
+    box-sizing: border-box;
+}
+
