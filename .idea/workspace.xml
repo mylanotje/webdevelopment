@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_10/media/oef1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_10/index.html" afterDir="false" />
     </list>
@@ -33,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_10/homepage/styles",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_10/homepage/styles&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\styles" />
@@ -86,7 +85,8 @@
       <workItem from="1669795165098" duration="5211000" />
       <workItem from="1669811582829" duration="1492000" />
       <workItem from="1670108262277" duration="738000" />
-      <workItem from="1670694023148" duration="5060000" />
+      <workItem from="1670694023148" duration="5114000" />
+      <workItem from="1670796215756" duration="73000" />
     </task>
     <servers />
   </component>
