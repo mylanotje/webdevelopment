@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_11/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +53,11 @@
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_11" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\media" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_1\style" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_1" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_9\opdracht_2" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_9\opdracht_1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +87,8 @@
       <workItem from="1669811582829" duration="1492000" />
       <workItem from="1670108262277" duration="738000" />
       <workItem from="1670694023148" duration="5114000" />
-      <workItem from="1670796215756" duration="73000" />
+      <workItem from="1670796215756" duration="156000" />
+      <workItem from="1671403150866" duration="531000" />
     </task>
     <servers />
   </component>
