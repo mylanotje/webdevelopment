@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/Teksten.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/cplusplus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/csharp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/python.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/ruby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/screenshot-groot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/images/screenshot-klein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examen/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_1_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_1_js/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_9/opdracht_1/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/opdracht_1/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,26 +57,36 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_10/homepage/styles&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/examen/styles&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\examen\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\images" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\composition" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_11" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\media" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_1\style" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\opdracht_1" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_9\opdracht_2" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js\scripts" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\examen\images" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\extra\opdracht_1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/examen/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +116,16 @@
       <workItem from="1670108262277" duration="738000" />
       <workItem from="1670694023148" duration="5114000" />
       <workItem from="1670796215756" duration="156000" />
-      <workItem from="1671403150866" duration="531000" />
+      <workItem from="1671403150866" duration="600000" />
+      <workItem from="1671403858094" duration="16000" />
+      <workItem from="1672426178821" duration="1051000" />
+      <workItem from="1672748204050" duration="13468000" />
+      <workItem from="1673960056560" duration="2556000" />
+      <workItem from="1674025600600" duration="9482000" />
+      <workItem from="1674036457156" duration="179000" />
+      <workItem from="1674041445010" duration="58000" />
+      <workItem from="1675674982384" duration="24000" />
+      <workItem from="1676463281182" duration="1320000" />
     </task>
     <servers />
   </component>

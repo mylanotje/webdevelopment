@@ -1,0 +1,221 @@
+/** Volgende CSS gaan we ze geven **/
+body{
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 2.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    color: black;
+    margin-bottom: 1em;
+}
+
+h2{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+h2 > a{
+    text-decoration: none;
+    color: black;
+}
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: -15%;
+    border-bottom: 1px solid #ebe8e8;
+}
+
+header > img{
+    height: 50px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav > ul{
+    display: grid;
+    grid-template-columns: repeat(7, auto);
+    list-style-type: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav > ul > li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border-right: 1px solid #ebe8e8;
+}
+
+nav > ul > li >a:hover{
+    border-bottom: 2px solid #fff100;
+}
+
+nav > ul > li > a{
+    color: #5b4746;
+    text-decoration: none;
+}
+
+nav > ul > li:last-of-type{
+    border: 0;
+}
+
+main > div:first-child{
+    height: 500px;
+    background-image: url("images/headerimage.jpg");
+    width: 100%;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: #8D99AE 2px 2px 2px;
+}
+
+section > h1{
+    margin-top: 50px;
+}
+
+section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+section > article{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 15px;
+}
+
+article > div{
+    margin-right: 1.5em;
+    padding-top: 1em;
+    border-top: 1px solid #ddd;
+}
+
+.titelArtikel{
+    text-transform: uppercase;
+    font-size: 1em;
+    letter-spacing: 1px;
+    color: red;
+    display: block;
+}
+
+span{
+    line-height: 2;
+    color: #666;
+    display: block;
+}
+
+i{
+    padding-right: 10px;
+    border-right: 1px solid #ebe8e8;
+}
+
+time{
+    color: #666;
+    padding-left: 10px;
+}
+
+#recommended{
+    margin-top: 50px;
+}
+
+.row > div{
+    padding: 25px;
+}
+
+
+#right{
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+#left{
+    padding: 20px;
+    display: flex;
+    justify-content: right;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: auto auto;
+    border-top: 1px solid #ebe8e8;
+    line-height: 2em;
+}
+
+@media screen and (max-width: 768px){
+    header{
+        left: 0;
+        border-bottom: 1px solid #ebe8e8;
+    }
+
+    nav > ul{
+        width: 600px;
+    }
+
+    main > div:first-child{
+        width: 100%;
+    }
+    #recipes{
+        width: 750px;
+    }
+    .row{
+        display: grid;
+        grid-template-columns: auto;
+
+    }
+
+    .row > div > img{
+        height: auto;
+        width: auto;
+    }
+
+}
+
+@media screen and (min-width: 800px){
+    main > div:first-child{
+        font-size: 5em;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1000px){
+    header{
+        left: 0;
+        border-bottom: 1px solid #ebe8e8;
+    }
+
+    nav > ul{
+        width: 980px;
+    }
+
+    #recipes{
+        width: 980px;
+    }
+    #recommended > div > div{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .row > div > img{
+        height: auto;
+        width: auto;
+    }
+
+}

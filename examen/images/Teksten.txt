@@ -1,0 +1,51 @@
+TITEL
+-----
+Object georiënteerd programmeren
+
+
+INHOUDSTAFEL
+------------
+Inhoud
+	Fundamentals
+		Klassen
+		Objecten
+		Overerving
+	Operatoren
+		Overzicht
+		Wiskundige
+		Relationele
+		Booleaanse
+	Logica
+		if
+		switch
+		for
+		while
+
+
+MIDDEN
+------
+Relationele operatoren
+
+De kleiner dan, groter dan, kleiner dan of gelijk en groter dan of gelijk vergelijkingsoperatoren, ook bekend als relationele operatoren, vergelijken hun operanden. Deze operatoren worden ondersteund door alle integrale en floating-point numerieke types.
+
+Merk op
+
+Er geldt dat als één van de operanden geen getal is, het resultaat van de bewerking onwaar is. Dat betekent dat de NaN-waarde noch groter dan, noch kleiner dan, noch gelijk is aan enige andere dubbele (of zwevende) waarde, inclusief NaN.
+
+Het type char ondersteunt ook vergelijkingsoperatoren. In het geval van char operanden worden de corresponderende tekencodes vergeleken.
+
+Enumeratietypes ondersteunen ook vergelijkingsoperatoren. Voor operanden van hetzelfde enumtype worden de overeenkomstige waarden van het onderliggende integrale type vergeleken.
+
+De operatoren == en != controleren of hun operanden gelijk zijn of niet.
+
+
+TABEL
+-----
+Relationele operatoren
+Symbool	Uitleg
+>	Groter dan
+<	Kleiner dan
+>=	Groter of gelijk aan
+<=	Kleiner of gelijk aan
+==	Is gelijk aan
+!=	Is niet gelijk aan
