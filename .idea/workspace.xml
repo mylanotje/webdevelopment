@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_2_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_arrays/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_arrays/opdracht_1/opdracht_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_arrays/opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_arrays/opdracht_2/opdracht_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_kopieer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_substring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_2_js/opdracht_substring/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_1/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_1/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_colorpicker/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_colorpicker/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_paragrafen/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_paragrafen/styles/index.CSS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_producten/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_3_js/opdracht_producten/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -61,11 +68,11 @@
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\composition" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_producten\styles" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_paragrafen\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_2_js\opdracht_kopieer" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js\scripts" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\examen\images" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment" />
     </key>
   </component>
   <component name="RunManager">
@@ -116,7 +123,8 @@
       <workItem from="1674041445010" duration="58000" />
       <workItem from="1675674982384" duration="24000" />
       <workItem from="1676463281182" duration="1352000" />
-      <workItem from="1677004571626" duration="1964000" />
+      <workItem from="1677004571626" duration="2004000" />
+      <workItem from="1678096661242" duration="1395000" />
     </task>
     <servers />
   </component>
