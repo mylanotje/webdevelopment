@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_4_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_invulformulier/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_invulformulier/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_man_van_an/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_man_van_an/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_spaties/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_spaties/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_strings/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_4_js/opdracht_strings/scripts/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +111,7 @@
       <workItem from="1677004571626" duration="2004000" />
       <workItem from="1678096661242" duration="1456000" />
       <workItem from="1678563270735" duration="410000" />
-      <workItem from="1678563693818" duration="1522000" />
+      <workItem from="1678563693818" duration="1562000" />
     </task>
     <servers />
   </component>
