@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="" />
+    <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo_5_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formvalidatie/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formwaarden/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_gemeente/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_gemeente/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_trigams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_trigams/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,25 +50,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/examen/styles&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_5_js/opdracht_de_en_het&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_5_js\opdracht_de_en_het" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\examen\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\images" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\composition" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_5_js\opdracht_formvalidatie\scripts" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_5_js\opdracht_formvalidatie" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_producten\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_paragrafen\styles" />
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_2_js\opdracht_kopieer" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js\scripts" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_1_js" />
     </key>
   </component>
   <component name="RunManager">
@@ -108,7 +122,9 @@
       <workItem from="1677004571626" duration="2004000" />
       <workItem from="1678096661242" duration="1456000" />
       <workItem from="1678563270735" duration="410000" />
-      <workItem from="1678563693818" duration="1672000" />
+      <workItem from="1678563693818" duration="1714000" />
+      <workItem from="1678868404996" duration="6050000" />
+      <workItem from="1679182586351" duration="3683000" />
     </task>
     <servers />
   </component>
