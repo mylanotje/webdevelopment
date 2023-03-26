@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_5_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formvalidatie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formvalidatie/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_formwaarden/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_gemeente/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_gemeente/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_trigams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_5_js/opdracht_trigams/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_1/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_2/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/extra_3/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/kleurtjes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_6_js/kleurtjes/scripts/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5_js/opdracht_de_en_het/scripts/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +124,8 @@
       <workItem from="1678563693818" duration="1714000" />
       <workItem from="1678868404996" duration="6050000" />
       <workItem from="1679182586351" duration="3683000" />
+      <workItem from="1679471851150" duration="3788000" />
+      <workItem from="1679798588414" duration="1357000" />
     </task>
     <servers />
   </component>

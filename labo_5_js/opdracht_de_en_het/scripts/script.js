@@ -3,9 +3,9 @@ let woorden = zin.split(" ");
 
 for (let i = 0; i < woorden.length; i++)
 {
-    if (woorden[i] === "de")
+    if (woorden[i] === " de ")
     {
-        woorden[i] = "het";
+        woorden[i] = " het ";
     }
 }
 
