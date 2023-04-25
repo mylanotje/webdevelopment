@@ -1,57 +1,74 @@
-// initialiseer variabelen en functies
-const global = {
-    IMAGE_COUNT: 5,
-    IMAGE_SIZE: 48,
-    IMAGE_NUMBER: 0,
-    IMAGE_PATH_PREFIX: "images/",
-    IMAGE_PATH_SUFFIX: ".png",
-    move_delay: 2000,
-    score: 0,
-};
+let personen = [];
 
-let timerId;
-const startButton = document.getElementById("startGame");
-const aantalHits = document.getElementById("aantalHits");
-const image = document.getElementById("image");
+// Event listener (btnBewaar click)
 
-// initialiseer spel bij klik op start knop
-const setupGame = () => {
-    startButton.addEventListener("click", startPlay);
-};
+// Bewaar de wijzigingen die in de user interface werden aangebracht
+const bewaarBewerktePersoon = () => {
+    console.log("Klik op de knop bewaar");
 
-// start het spel
-const startPlay = () => {
-    startButton.style.display = "none";
-    timerId = setInterval(updateImage, global.move_delay);
-    image.addEventListener("click", addHits);
-};
+    // valideer alle input data en controleer of er geen errors meer zijn
+    valideer();
 
-// update de positie en afbeelding van het object
-const updateImage = () => {
-    const maxWidth = document.getElementById("playField").clientWidth - global.IMAGE_SIZE + 1;
-    const maxHeight = document.getElementById("playField").clientHeight - global.IMAGE_SIZE + 1;
-    const newLeft = Math.floor(Math.random() * maxWidth);
-    const newTop = Math.floor(Math.random() * maxHeight);
-    global.IMAGE_NUMBER = Math.floor(Math.random() * global.IMAGE_COUNT);
-    const newImagePath = global.IMAGE_PATH_PREFIX + global.IMAGE_NUMBER + global.IMAGE_PATH_SUFFIX;
-    image.src = newImagePath;
-    image.style.left = newLeft + "px";
-    image.style.top = newTop + "px";
-};
+    // indien ok, bewaar de ingegeven data.
+        // een nieuw aangemaakte persoon voegen we toe
+        // een bestaande persoon in de lijst passen we aan
+    if (document.querySelectorAll('.errorMessage').length === 0) {
+        const voornaam = document.getElementById("txtVoornaam").value;
+        const familienaam = document.getElementById("txtFamilienaam").value;
+        const geboorteDatum = document.getElementById("txtGeboorteDatum").value;
+        const email = document.getElementById("txtEmail").value;
+        const aantalKinderen = document.getElementById("txtAantalKinderen").value;
 
-// verhoog score bij klik op object
-const addHits = () => {
-    if (global.IMAGE_NUMBER !== 0) {
-        global.score++;
-        clearTimeout(timerId);
-        timerId = setInterval(updateImage, global.move_delay);
-        updateImage();
-    } else {
-        alert("Je bent verloren!");
-        clearTimeout(timerId);
+        const persoon = {
+            voornaam,
+            familienaam,
+            geboorteDatum,
+            email,
+            aantalKinderen
+        };
+
+        const bestaandePersoon = personen.find(p => p.email === persoon.email);
+
+        if (bestaandePersoon) {
+            bestaandePersoon.voornaam = persoon.voornaam;
+            bestaandePersoon.familienaam = persoon.familienaam;
+            bestaandePersoon.geboorteDatum = persoon.geboorteDatum;
+            bestaandePersoon.aantalKinderen = persoon.aantalKinderen;
+        } else {
+            personen.push(persoon);
+        }
+
+        // zorg ervoor dat de naam en voornaam ook aangepast en/of zichtbaar zijn in de lijst na updaten
+        updatePersonenLijst();
+
+        // maak het formulier leeg
+        document.getElementById("txtVoornaam").value = "";
+        document.getElementById("txtFamilienaam").value = "";
+        document.getElementById("txtGeboorteDatum").value = "";
+        document.getElementById("txtEmail").value = "";
+        document.getElementById("txtAantalKinderen").value = "";
     }
-    aantalHits.innerText = `Aantal Hits: ${global.score}`;
 };
 
-// voeg event listener toe voor het laden van de pagina
-window.addEventListener("load", setupGame);
+// Event listener (btnNieuw click)
+const bewerkNieuwePersoon = () => {
+    console.log("Klik op de knop nieuw");
+
+    // Zet de user interface klaar om de gegevens van een nieuwe persoon in te voeren
+};
+
+
+// onze setup functie die de event listeners registreert
+const setup = () => {
+    let btnBewaar = document.getElementById("btnBewaar");
+    btnBewaar.addEventListener("click", bewaarBewerktePersoon);
+
+    let btnNieuw = document.getElementById("btnNieuw");
+    btnNieuw.addEventListener("click", bewerkNieuwePersoon);
+
+    let lstPersonen = document.getElementById("lstPersonen");
+    // voeg een change listener toe aan lstPersonen. Bij het klikken op een option element in de lijst
+    // moet de data van die persoon getoond worden in het formulier
+};
+
+window.addEventListener("load", setup);

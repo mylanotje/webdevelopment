@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78b3b082-6f51-4a8a-97f7-ebd9d65f750d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_7_js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_js/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_js/opdracht_2/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_js/opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_js/opdracht_2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_7_js/opdracht_2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_3/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_3/scripts/validatie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8_js/opdracht_3/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_7_js/opdracht_1/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo_7_js/opdracht_1/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,17 +42,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_7_js/opdracht_2/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/OneDrive/Documenten/Web Development/webdevelopment/labo_7_js/opdracht_2/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7_js\opdracht_2\images" />
@@ -59,11 +62,11 @@
       <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_10\homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7_js\opdracht_1" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_5_js\opdracht_formvalidatie\scripts" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_5_js\opdracht_formvalidatie" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_producten\styles" />
-      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_3_js\opdracht_paragrafen\styles" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7_js\opdracht_1\scripts" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_8_js\opdracht_3\styles" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_8_js\opdracht_3\scripts" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_8_js\opdracht_3" />
+      <recent name="C:\Users\vande\OneDrive\Documenten\Web Development\webdevelopment\labo_7_js\opdracht_2\styles\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -122,7 +125,10 @@
       <workItem from="1679182586351" duration="3683000" />
       <workItem from="1679471851150" duration="3788000" />
       <workItem from="1679798588414" duration="1512000" />
-      <workItem from="1680542674637" duration="2567000" />
+      <workItem from="1680542674637" duration="2758000" />
+      <workItem from="1681888490006" duration="5356000" />
+      <workItem from="1682336826349" duration="596000" />
+      <workItem from="1682461085727" duration="221000" />
     </task>
     <servers />
   </component>
