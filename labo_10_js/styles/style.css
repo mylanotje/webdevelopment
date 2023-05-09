@@ -1,0 +1,21 @@
+.google-card {
+    background-color: #f2f2f2;
+    border-color: #dbdbdb;
+}
+
+.youtube-card {
+    background-color: #ff0000;
+    border-color: #db0000;
+}
+
+.twitter-card {
+    background-color: #1da1f2;
+    border-color: #0c7aab;
+    color: #fff;
+}
+
+.instagram-card {
+    background-color: #833ab4;
+    border-color: #7434a3;
+    color: #fff;
+}
