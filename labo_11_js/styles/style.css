@@ -1,0 +1,26 @@
+.th
+{
+    background-color: pink;
+    color: white;
+}
+.tr:nth-child(2n)
+{
+    background-color: white;
+}
+
+.tr:nth-child(2n + 1)
+{
+    background-color: grey;
+}
+
+.table
+{
+    border: 5px solid black;
+    width: 300px;
+}
+#tafels
+{
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+}
